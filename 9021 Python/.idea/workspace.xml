@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="715de844-c9bb-4206-a37d-8cac0ea859be" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="9021 Python" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RaubduATPg9CAkWkt15nLEXhfb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/廖雪峰" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Python.打一遍">
+    <configuration name="打一遍" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="9021 Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/复习" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/复习/打一遍.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="new" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="9021 Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/复习" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/复习/new.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="quiz_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="9021 Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/quiz_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/quiz_1/quiz_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="quiz_3已完成" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="9021 Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/quiz_3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/quiz_3/quiz_3已完成.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctest check_out_square_and_fix_if_corrupted" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="9021 Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/复习/mid-examples/2018S1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/复习/mid-examples/2018S1/question_6.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="check_out_square_and_fix_if_corrupted" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.打一遍" />
+        <item itemvalue="Python.quiz_3已完成" />
+        <item itemvalue="Python.quiz_1" />
+        <item itemvalue="Python tests.Doctest check_out_square_and_fix_if_corrupted" />
+        <item itemvalue="Python.new" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="715de844-c9bb-4206-a37d-8cac0ea859be" name="Default Changelist" comment="" />
+      <created>1569917600357</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569917600357</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1259" height="142" key="GridCell.Tab.0.bottom" timestamp="1583136962679">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="142" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1583136962679" />
+    <state width="1188" height="123" key="GridCell.Tab.0.bottom/0.23.1229.777@0.23.1229.777" timestamp="1575411464462" />
+    <state width="1259" height="142" key="GridCell.Tab.0.center" timestamp="1583136962678">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="142" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1583136962678" />
+    <state width="1188" height="123" key="GridCell.Tab.0.center/0.23.1229.777@0.23.1229.777" timestamp="1575411464461" />
+    <state width="1259" height="142" key="GridCell.Tab.0.left" timestamp="1583136962678">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="142" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1583136962678" />
+    <state width="1188" height="123" key="GridCell.Tab.0.left/0.23.1229.777@0.23.1229.777" timestamp="1575411464461" />
+    <state width="1259" height="142" key="GridCell.Tab.0.right" timestamp="1583136962679">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="142" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1583136962679" />
+    <state width="1188" height="123" key="GridCell.Tab.0.right/0.23.1229.777@0.23.1229.777" timestamp="1575411464461" />
+    <state x="303" y="228" key="com.intellij.ide.util.TipDialog" timestamp="1583136490617">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="303" y="228" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1583136490617" />
+    <state x="291" y="244" key="com.intellij.ide.util.TipDialog/0.23.1229.777@0.23.1229.777" timestamp="1575411334798" />
+    <state x="291" y="244" key="com.intellij.ide.util.TipDialog/0.23.1231.777@0.23.1231.777" timestamp="1575450143277" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1575450178068">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1575450178068" />
+  </component>
+</project>
